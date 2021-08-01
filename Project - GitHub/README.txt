@@ -22,6 +22,8 @@ The program can run both as a command line argument or from VS, while manually a
 
 This program has been tested and yielded the exact same results as the different running examples provided by the teaching staff. 
 
+*****The code can be found in sim.c file*****
+
 For any further inquiry or questions, please feel free to contact me at +972-523194988.
 
 Aviram.
